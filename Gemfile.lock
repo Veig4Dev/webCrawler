@@ -1,0 +1,11 @@
+
+source 'https://rubygems.org'
+
+gemspec
+
+# Gems específicas para Windows
+platforms :mswin, :mingw, :x64_mingw do
+  gem 'nokogiri', '~> 1.11', '>= 1.11.2'
+  gem 'rubyntlm', '~> 0.6', '>= 0.6.3'
+  gem 'webrobots', '~> 0.1.2'
+end
