@@ -1,0 +1,402 @@
+[
+  {
+    "modelo": "Ecosport Se 2.0 16v Flex 5p Aut.",
+    "marca": "Ford",
+    "valor": "R$ 64.990",
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018,
+    "local_path": "https://napista.com.br/static/photos/e2a056c1-7f4d-4af7-bb60-261fa542abb6_a0310f84-294e-43b3-8ff1-9da4c8ca5cf7"
+  },
+  {
+    "modelo": "Saveiro 1.6 Cross Cd 16v2p Manual",
+    "marca": "Volkswagen",
+    "valor": "R$ 72.900",
+    "ano_fabricacao": 2016,
+    "ano_modelo": 2017,
+    "local_path": "https://napista.com.br/static/photos/3b6f36a4-b41e-4ee5-a317-fc18ec7438bb_17d33ebd-3043-4445-a1f9-1239ad226e0f"
+  },
+  {
+    "modelo": "308 Active 1.6 16v 4p Manual Flex",
+    "marca": "Peugeot",
+    "valor": "R$ 43.500",
+    "ano_fabricacao": 2014,
+    "ano_modelo": 2015,
+    "local_path": "https://napista.com.br/static/photos/00813c4b-4b7a-41ef-95e7-17400d4e4b87_61c51fbe-bbda-4246-b3e7-24b0633daad7"
+  },
+  {
+    "modelo": "Hb20 Comfort 1.0 Flex 12v Mec.",
+    "marca": "Hyundai",
+    "valor": "R$ 51.500",
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018,
+    "local_path": "https://napista.com.br/static/photos/3e051c54-5a45-47bc-8bc6-54a791db3f05_0529aa97-c178-4a2d-97f4-0d83e479eb5c"
+  },
+  {
+    "modelo": "Polo Comfort. 200 Tsi 1.0 Flex 12v Aut.",
+    "marca": "Volkswagen",
+    "valor": "R$ 79.900",
+    "ano_fabricacao": 2019,
+    "ano_modelo": 2020,
+    "local_path": "https://napista.com.br/static/photos/9276f9f0-6831-4e60-ac44-6c8c7fb8f213_a0cf2b16-48f3-47ac-965c-fef9307a1793"
+  },
+  {
+    "modelo": "Renegade1.8 4x2 Flex 16v Aut.",
+    "marca": "Jeep",
+    "valor": "R$ 115.900",
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2023,
+    "local_path": "https://napista.com.br/static/photos/623043b8-9ea4-476c-9169-dba9299bc516_019bfc8c-4dbb-4779-bed3-b365925aaf4f"
+  },
+  {
+    "modelo": "Clio Campus Hi-flex 1.0 16v 3p",
+    "marca": "Renault",
+    "valor": "R$ 15.900",
+    "ano_fabricacao": 2010,
+    "ano_modelo": 2011,
+    "local_path": "https://napista.com.br/static/photos/74747c36-ee73-45be-bddb-e0d78448bec6_ee5b7b88-bb21-4a85-95f5-8d2d9da1de88"
+  },
+  {
+    "modelo": "T Cross Cl Tsi Ad Flex",
+    "marca": "Volkswagen",
+    "valor": "R$ 96.900",
+    "ano_fabricacao": 2020,
+    "ano_modelo": 2021,
+    "local_path": "https://napista.com.br/static/photos/c4b60faa-6f66-44e5-af11-7244de8e3924_dfdb8754-f740-4e0c-95fd-579ba586135a"
+  },
+  {
+    "modelo": "S10 Pick-up Lt 2.5 Flex 4x4 Cd Aut.",
+    "marca": "Chevrolet",
+    "valor": "R$ 138.900",
+    "ano_fabricacao": 2018,
+    "ano_modelo": 2019,
+    "local_path": "https://napista.com.br/static/photos/7219d685-ee93-4b36-9ce8-941e3063df90_cf24c469-4e02-44cd-b46b-21e48034f5c9"
+  },
+  {
+    "modelo": "Rover Range Rover Evoque 2.0 Si4 Prestige Auto 4wd",
+    "marca": "Land",
+    "valor": "R$ 129.900",
+    "ano_fabricacao": 2014,
+    "ano_modelo": 2015,
+    "local_path": "https://napista.com.br/static/photos/0f2ac406-36ac-49f7-a5ad-6b9e5cac288e_b2a4a9af-6f23-448b-bc11-1001017b51f2"
+  },
+  {
+    "modelo": "Saveiro 1.6 Mi Trooper Ce 8v2p Manual G.v",
+    "marca": "Volkswagen",
+    "valor": "R$ 43.500",
+    "ano_fabricacao": 2011,
+    "ano_modelo": 2012,
+    "local_path": "https://napista.com.br/static/photos/d6449e36-3a70-4f79-b421-3cbac8a413a5_efc94105-fbe1-48c7-9a95-e6b838a33650"
+  },
+  {
+    "modelo": "Strada 1.3 Cabine Plus Freedom",
+    "marca": "Fiat",
+    "valor": "R$ 85.900",
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2023,
+    "local_path": "https://napista.com.br/static/photos/15800e5b-f245-4de0-b53a-86d0ca437b5b_927c1fe7-0508-4d42-a8e3-16a8fb19d89a"
+  },
+  {
+    "modelo": "Hb20x 1.6 16v Diamond Plus 4p Automático Flex",
+    "marca": "Hyundai",
+    "valor": "R$ 80.900",
+    "ano_fabricacao": 2020,
+    "ano_modelo": 2021,
+    "local_path": "https://napista.com.br/static/photos/5a8061a7-0cd8-4de1-984e-1672842c656c_98e78afe-9c7a-4d15-86fd-47baf1a05902"
+  },
+  {
+    "modelo": "Up! High 1.0 Tsi Total Flex 12v 5p",
+    "marca": "Volkswagen",
+    "valor": "R$ 58.900",
+    "ano_fabricacao": 2018,
+    "ano_modelo": 2019,
+    "local_path": "https://napista.com.br/static/photos/2852814e-c8ba-4a56-b6f8-bd3f33f0d77c_8d4b3270-9d03-4768-9dd6-fc64eab83532"
+  },
+  {
+    "modelo": "Vectra Gt 2.0 Mpfi 8v Flexpower Mec.",
+    "marca": "Chevrolet",
+    "valor": "R$ 43.500",
+    "ano_fabricacao": 2011,
+    "ano_modelo": 2012,
+    "local_path": "https://napista.com.br/static/photos/54c208cd-503f-4ffa-98e4-bd934159d533_af87ebd3-4ec2-4ffb-a795-adfe2dec4edf"
+  },
+  {
+    "modelo": "Golf 1.4 Highline",
+    "marca": "Volkswagen",
+    "valor": "R$ 99.900",
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018,
+    "local_path": "https://napista.com.br/static/photos/4d643e5e-0eac-4cb6-9e2d-6bd3608434f6_4c77d8cc-c981-4ee9-aadb-35d112ace70c"
+  },
+  {
+    "modelo": "Corolla Xei 2.0 Flex 16v Aut.",
+    "marca": "Toyota",
+    "valor": "R$ 109.900",
+    "ano_fabricacao": 2019,
+    "ano_modelo": 2020,
+    "local_path": "https://napista.com.br/static/photos/ad4da164-9824-42e0-bf34-3c0e17fc3be5_46536833-69d4-41f3-ae92-44b1320f1b55"
+  },
+  {
+    "modelo": "Celta Spirit/lt 1.0 Mpfi 8v Flexp. 5p",
+    "marca": "Chevrolet",
+    "valor": "R$ 34.900",
+    "ano_fabricacao": 2015,
+    "ano_modelo": 2016,
+    "local_path": "https://napista.com.br/static/photos/da077b25-3eb3-42a6-8e9d-6fa5c56ca80d_44d4eb0a-fb45-471a-9e2f-2713d072fc57"
+  },
+  {
+    "modelo": "Toro Toro Freedom 2.4 16v Flex Aut.",
+    "marca": "Fiat",
+    "valor": "R$ 91.900",
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018,
+    "local_path": "https://napista.com.br/static/photos/61ebb0a8-0ec4-4b27-beef-ebe01962f88c_975ed95c-acb2-4d7e-940f-9b1b3b371f9c"
+  },
+  {
+    "modelo": "Sportage 2.0 Flex Ex Auto P587",
+    "marca": "Kia",
+    "valor": "R$ 77.900",
+    "ano_fabricacao": 2013,
+    "ano_modelo": 2014,
+    "local_path": "https://napista.com.br/static/photos/7a2f82e1-aed4-4af7-acf6-315b3b1bfef5_96bdee9f-438b-49d8-aea9-a01a0829ed09"
+  },
+  {
+    "modelo": "Voyage 1.6 Msi Flex 8v 4p",
+    "marca": "Volkswagen",
+    "valor": "R$ 63.500",
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2023,
+    "local_path": "https://napista.com.br/static/photos/93276702-1246-457e-a1c4-1df47c606897_51313f60-d105-424f-945e-24a8d0042881"
+  },
+  {
+    "modelo": "Celta Super 1.0 Mpfi 8v Flexpower 3p",
+    "marca": "Chevrolet",
+    "valor": "R$ 23.900",
+    "ano_fabricacao": 2012,
+    "ano_modelo": 2013,
+    "local_path": "https://napista.com.br/static/photos/699cdd22-5da8-44b0-ac44-bdbd77c04db7_6fa68878-451c-48b8-b234-2e3a9b53b984"
+  },
+  {
+    "modelo": "Renegade1.8 4x2 Flex 16v Aut.",
+    "marca": "Jeep",
+    "valor": "R$ 115.900",
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2023,
+    "local_path": "https://napista.com.br/static/photos/c6afb6e0-22c5-493c-9757-d7a558a7142a_14d768d6-6818-4c05-aeb9-0b61993fffd1"
+  },
+  {
+    "modelo": "Saveiro Surf 1.6 Mi Total Flex 2p",
+    "marca": "Volkswagen",
+    "valor": "R$ 46.900",
+    "ano_fabricacao": 2014,
+    "ano_modelo": 2015,
+    "local_path": "https://napista.com.br/static/photos/0dd406bb-56e0-48de-90b6-aff08feee613_25dece23-4f65-4bcc-8861-63cb314e2a78"
+  },
+  {
+    "modelo": "Golf Comfortline 1.4 Tsi 140cv Aut.",
+    "marca": "Volkswagen",
+    "valor": "R$ 76.500",
+    "ano_fabricacao": 2015,
+    "ano_modelo": 2016,
+    "local_path": "https://napista.com.br/static/photos/a4c46047-c481-4325-8e9c-8316b66b2e63_5ab533e3-2989-4db5-b5c8-5005f85f102f"
+  },
+  {
+    "modelo": "Ecosport Se 2.0 16v Flex 5p Aut.",
+    "marca": "Ford",
+    "valor": "R$ 64.990",
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018,
+    "local_path": "https://napista.com.br/static/photos/e2a056c1-7f4d-4af7-bb60-261fa542abb6_a0310f84-294e-43b3-8ff1-9da4c8ca5cf7"
+  },
+  {
+    "modelo": "Saveiro 1.6 Cross Cd 16v2p Manual",
+    "marca": "Volkswagen",
+    "valor": "R$ 72.900",
+    "ano_fabricacao": 2016,
+    "ano_modelo": 2017,
+    "local_path": "https://napista.com.br/static/photos/3b6f36a4-b41e-4ee5-a317-fc18ec7438bb_17d33ebd-3043-4445-a1f9-1239ad226e0f"
+  },
+  {
+    "modelo": "308 Active 1.6 16v 4p Manual Flex",
+    "marca": "Peugeot",
+    "valor": "R$ 43.500",
+    "ano_fabricacao": 2014,
+    "ano_modelo": 2015,
+    "local_path": "https://napista.com.br/static/photos/00813c4b-4b7a-41ef-95e7-17400d4e4b87_61c51fbe-bbda-4246-b3e7-24b0633daad7"
+  },
+  {
+    "modelo": "Hb20 Comfort 1.0 Flex 12v Mec.",
+    "marca": "Hyundai",
+    "valor": "R$ 51.500",
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018,
+    "local_path": "https://napista.com.br/static/photos/3e051c54-5a45-47bc-8bc6-54a791db3f05_0529aa97-c178-4a2d-97f4-0d83e479eb5c"
+  },
+  {
+    "modelo": "Polo Comfort. 200 Tsi 1.0 Flex 12v Aut.",
+    "marca": "Volkswagen",
+    "valor": "R$ 79.900",
+    "ano_fabricacao": 2019,
+    "ano_modelo": 2020,
+    "local_path": "https://napista.com.br/static/photos/9276f9f0-6831-4e60-ac44-6c8c7fb8f213_a0cf2b16-48f3-47ac-965c-fef9307a1793"
+  },
+  {
+    "modelo": "Renegade1.8 4x2 Flex 16v Aut.",
+    "marca": "Jeep",
+    "valor": "R$ 115.900",
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2023,
+    "local_path": "https://napista.com.br/static/photos/623043b8-9ea4-476c-9169-dba9299bc516_019bfc8c-4dbb-4779-bed3-b365925aaf4f"
+  },
+  {
+    "modelo": "Clio Campus Hi-flex 1.0 16v 3p",
+    "marca": "Renault",
+    "valor": "R$ 15.900",
+    "ano_fabricacao": 2010,
+    "ano_modelo": 2011,
+    "local_path": "https://napista.com.br/static/photos/74747c36-ee73-45be-bddb-e0d78448bec6_ee5b7b88-bb21-4a85-95f5-8d2d9da1de88"
+  },
+  {
+    "modelo": "T Cross Cl Tsi Ad Flex",
+    "marca": "Volkswagen",
+    "valor": "R$ 96.900",
+    "ano_fabricacao": 2020,
+    "ano_modelo": 2021,
+    "local_path": "https://napista.com.br/static/photos/c4b60faa-6f66-44e5-af11-7244de8e3924_dfdb8754-f740-4e0c-95fd-579ba586135a"
+  },
+  {
+    "modelo": "S10 Pick-up Lt 2.5 Flex 4x4 Cd Aut.",
+    "marca": "Chevrolet",
+    "valor": "R$ 138.900",
+    "ano_fabricacao": 2018,
+    "ano_modelo": 2019,
+    "local_path": "https://napista.com.br/static/photos/7219d685-ee93-4b36-9ce8-941e3063df90_cf24c469-4e02-44cd-b46b-21e48034f5c9"
+  },
+  {
+    "modelo": "Saveiro 1.6 Mi Trooper Ce 8v2p Manual G.v",
+    "marca": "Volkswagen",
+    "valor": "R$ 43.500",
+    "ano_fabricacao": 2011,
+    "ano_modelo": 2012,
+    "local_path": "https://napista.com.br/static/photos/d6449e36-3a70-4f79-b421-3cbac8a413a5_efc94105-fbe1-48c7-9a95-e6b838a33650"
+  },
+  {
+    "modelo": "Strada 1.3 Cabine Plus Freedom",
+    "marca": "Fiat",
+    "valor": "R$ 85.900",
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2023,
+    "local_path": "https://napista.com.br/static/photos/15800e5b-f245-4de0-b53a-86d0ca437b5b_927c1fe7-0508-4d42-a8e3-16a8fb19d89a"
+  },
+  {
+    "modelo": "Hb20x 1.6 16v Diamond Plus 4p Automático Flex",
+    "marca": "Hyundai",
+    "valor": "R$ 80.900",
+    "ano_fabricacao": 2020,
+    "ano_modelo": 2021,
+    "local_path": "https://napista.com.br/static/photos/5a8061a7-0cd8-4de1-984e-1672842c656c_98e78afe-9c7a-4d15-86fd-47baf1a05902"
+  },
+  {
+    "modelo": "Rover Range Rover Evoque 2.0 Si4 Prestige Auto 4wd",
+    "marca": "Land",
+    "valor": "R$ 129.900",
+    "ano_fabricacao": 2014,
+    "ano_modelo": 2015,
+    "local_path": "https://napista.com.br/static/photos/0f2ac406-36ac-49f7-a5ad-6b9e5cac288e_b2a4a9af-6f23-448b-bc11-1001017b51f2"
+  },
+  {
+    "modelo": "Up! High 1.0 Tsi Total Flex 12v 5p",
+    "marca": "Volkswagen",
+    "valor": "R$ 58.900",
+    "ano_fabricacao": 2018,
+    "ano_modelo": 2019,
+    "local_path": "https://napista.com.br/static/photos/2852814e-c8ba-4a56-b6f8-bd3f33f0d77c_8d4b3270-9d03-4768-9dd6-fc64eab83532"
+  },
+  {
+    "modelo": "Corolla Xei 2.0 Flex 16v Aut.",
+    "marca": "Toyota",
+    "valor": "R$ 109.900",
+    "ano_fabricacao": 2019,
+    "ano_modelo": 2020,
+    "local_path": "https://napista.com.br/static/photos/ad4da164-9824-42e0-bf34-3c0e17fc3be5_46536833-69d4-41f3-ae92-44b1320f1b55"
+  },
+  {
+    "modelo": "Toro Toro Freedom 2.4 16v Flex Aut.",
+    "marca": "Fiat",
+    "valor": "R$ 91.900",
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018,
+    "local_path": "https://napista.com.br/static/photos/61ebb0a8-0ec4-4b27-beef-ebe01962f88c_975ed95c-acb2-4d7e-940f-9b1b3b371f9c"
+  },
+  {
+    "modelo": "Sportage 2.0 Flex Ex Auto P587",
+    "marca": "Kia",
+    "valor": "R$ 77.900",
+    "ano_fabricacao": 2013,
+    "ano_modelo": 2014,
+    "local_path": "https://napista.com.br/static/photos/7a2f82e1-aed4-4af7-acf6-315b3b1bfef5_96bdee9f-438b-49d8-aea9-a01a0829ed09"
+  },
+  {
+    "modelo": "Vectra Gt 2.0 Mpfi 8v Flexpower Mec.",
+    "marca": "Chevrolet",
+    "valor": "R$ 43.500",
+    "ano_fabricacao": 2011,
+    "ano_modelo": 2012,
+    "local_path": "https://napista.com.br/static/photos/54c208cd-503f-4ffa-98e4-bd934159d533_af87ebd3-4ec2-4ffb-a795-adfe2dec4edf"
+  },
+  {
+    "modelo": "Golf 1.4 Highline",
+    "marca": "Volkswagen",
+    "valor": "R$ 99.900",
+    "ano_fabricacao": 2017,
+    "ano_modelo": 2018,
+    "local_path": "https://napista.com.br/static/photos/4d643e5e-0eac-4cb6-9e2d-6bd3608434f6_4c77d8cc-c981-4ee9-aadb-35d112ace70c"
+  },
+  {
+    "modelo": "Voyage 1.6 Msi Flex 8v 4p",
+    "marca": "Volkswagen",
+    "valor": "R$ 63.500",
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2023,
+    "local_path": "https://napista.com.br/static/photos/93276702-1246-457e-a1c4-1df47c606897_51313f60-d105-424f-945e-24a8d0042881"
+  },
+  {
+    "modelo": "Celta Spirit/lt 1.0 Mpfi 8v Flexp. 5p",
+    "marca": "Chevrolet",
+    "valor": "R$ 34.900",
+    "ano_fabricacao": 2015,
+    "ano_modelo": 2016,
+    "local_path": "https://napista.com.br/static/photos/da077b25-3eb3-42a6-8e9d-6fa5c56ca80d_44d4eb0a-fb45-471a-9e2f-2713d072fc57"
+  },
+  {
+    "modelo": "Celta Super 1.0 Mpfi 8v Flexpower 3p",
+    "marca": "Chevrolet",
+    "valor": "R$ 23.900",
+    "ano_fabricacao": 2012,
+    "ano_modelo": 2013,
+    "local_path": "https://napista.com.br/static/photos/699cdd22-5da8-44b0-ac44-bdbd77c04db7_6fa68878-451c-48b8-b234-2e3a9b53b984"
+  },
+  {
+    "modelo": "Renegade1.8 4x2 Flex 16v Aut.",
+    "marca": "Jeep",
+    "valor": "R$ 115.900",
+    "ano_fabricacao": 2022,
+    "ano_modelo": 2023,
+    "local_path": "https://napista.com.br/static/photos/c6afb6e0-22c5-493c-9757-d7a558a7142a_14d768d6-6818-4c05-aeb9-0b61993fffd1"
+  },
+  {
+    "modelo": "Saveiro Surf 1.6 Mi Total Flex 2p",
+    "marca": "Volkswagen",
+    "valor": "R$ 46.900",
+    "ano_fabricacao": 2014,
+    "ano_modelo": 2015,
+    "local_path": "https://napista.com.br/static/photos/0dd406bb-56e0-48de-90b6-aff08feee613_25dece23-4f65-4bcc-8861-63cb314e2a78"
+  },
+  {
+    "modelo": "Golf Comfortline 1.4 Tsi 140cv Aut.",
+    "marca": "Volkswagen",
+    "valor": "R$ 76.500",
+    "ano_fabricacao": 2015,
+    "ano_modelo": 2016,
+    "local_path": "https://napista.com.br/static/photos/a4c46047-c481-4325-8e9c-8316b66b2e63_5ab533e3-2989-4db5-b5c8-5005f85f102f"
+  }
+]
