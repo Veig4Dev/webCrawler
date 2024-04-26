@@ -34,7 +34,6 @@ def create_subfolders(city_folder)
   [images_folder, json_folder]
 end
 
-
 # Salva uma imagem em uma pasta específica
 def save_image(image_url, image_name, folder_path)
   agent = Mechanize.new
@@ -110,7 +109,6 @@ def main
     break if input.downcase == 'exit'
     puts "\n\n-------------------------Iniciando a varredura------------------------- \n\n"
     city_url = input.downcase.tr(' ', '-')
-
     base_url = "https://napista.com.br/busca/carro-em-#{city_url}/"
     url = base_url
 
@@ -125,28 +123,24 @@ def main
     begin
       loop do
         page = agent.get(url)
-        vehicle_list = page.search('li.sc-5b587bbb-0.lepzaa')
-
+        vehicle_list = page.search('body ul li')
         break if vehicle_list.empty?
-
         vehicle_list.each do |vehicle|
           title_element = vehicle.at('h2')
-          next if title_element.nil? 
           title = title_element.attr('title')
           title_parts = title.split(' ')
           marca = title_parts.first 
           model = title_parts[1..].join(' ') 
           image_url = vehicle.at('img')&.attr('src')
-          price_element = vehicle.at('.sc-e166232d-0.feFCDP')
-          price = price_element.text.strip if price_element 
-          year_element = vehicle.at('.sc-e166232d-0.bDVNbb')
-          year = year_element.text.strip.to_i if year_element
+          price_element = vehicle.at('div[variant="heading"][color="text-primary"]')
+          price = price_element.text.strip if price_element
+          year_element = vehicle.at('div[variant="strong-caption"][color="text-secondary"]')
+          year = year_element.text.strip if year_element
 
           next unless title && marca && model && price && year && image_url
 
           # Calcula o ano do modelo (ano de fabricação + 1)
-          model_year = year + 1
-          #model_year = (year.to_i + 1).to_s
+          model_year = year.to_i + 1
           vehicle_data = {
             modelo: model,
             marca:  marca,
